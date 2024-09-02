@@ -1,0 +1,63 @@
+/* styles.css */
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Top Section */
+.top-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.top-section h1 {
+    margin: 0;
+}
+
+.top-section a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+.top-section a:hover {
+    text-decoration: underline;
+}
+
+/* Image Section */
+.image-section {
+    padding: 20px;
+    text-align: center;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+.image-section a {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+.image-section a:hover {
+    text-decoration: underline;
+}
+
+/* Trivia Section */
+.trivia-section {
+    padding: 20px;
+}
+
+.trivia-section h2 {
+    margin-top: 0;
+}
+
+.trivia-section ol {
+    padding-left: 20px;
+}
